@@ -1,8 +1,3 @@
-### Projects
-- [x] **[Chug](https://github.com/sblmnl/chug)** - A symmetric encryption algorithm and collection of padding algorithms
-- [x] **[ChugSharp](https://github.com/sblmnl/chugsharp)** - The official implementation of the Chug encryption and padding algorithms in C#
-- [ ] **[█████████](https://github.com/freedombits)** - All-in-one IT asset monitoring, inventory, and ticketing
----
 ### Specialties
 - **👨🏽‍💻 Back-end Web Development**
 - **🔐 Cryptosystems Engineering**
