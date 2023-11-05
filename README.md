@@ -23,16 +23,17 @@ I'm a software engineer that specializes in back-end web development, scripting,
 ![](https://img.shields.io/badge/-Blazor-%23181717?style=flat-square&labelColor=purple&logoColor=white&logo=blazor)
 ![](https://img.shields.io/badge/-Python-%23181717?style=flat-square&labelColor=blue&logoColor=white&logo=python)
 ![](https://img.shields.io/badge/-Node.js-%23181717?style=flat-square&labelColor=green&logoColor=black&logo=node.js)
-![](https://img.shields.io/badge/-Express.js-%23181717?style=flat-square&labelColor=green&logoColor=black&logo=express) \
+![](https://img.shields.io/badge/-Express.js-%23181717?style=flat-square&labelColor=green&logoColor=black&logo=express)
 ![](https://img.shields.io/badge/-PostgreSQL-%23181717?style=flat-square&labelColor=blue&logoColor=white&logo=postgresql)
-![](https://img.shields.io/badge/-MySQL-%23181717?style=flat-square&labelColor=blue&logoColor=white&logo=mysql)
+![](https://img.shields.io/badge/-MySQL-%23181717?style=flat-square&labelColor=blue&logoColor=white&logo=mysql) \
 ![](https://img.shields.io/badge/-SQLite-%23181717?style=flat-square&labelColor=blue&logoColor=white&logo=sqlite)
 ![](https://img.shields.io/badge/-MSSQL-%23181717?style=flat-square&labelColor=blue&logoColor=white&logo=microsoft-sql-server)
-![](https://img.shields.io/badge/-PowerShell-%23181717?style=flat-square&labelColor=darkblue&logoColor=white&logo=powershell) \
+![](https://img.shields.io/badge/-PowerShell-%23181717?style=flat-square&labelColor=darkblue&logoColor=white&logo=powershell)
 ![](https://img.shields.io/badge/-Shell-%23181717?style=flat-square&labelColor=yellow&logoColor=black&logo=linux)
 ![](https://img.shields.io/badge/-HTML-%23181717?style=flat-square&labelColor=black&logoColor=orange&logo=html5)
 ![](https://img.shields.io/badge/-CSS-%23181717?style=flat-square&labelColor=black&logoColor=blue&logo=css3)
 ![](https://img.shields.io/badge/-Docker-%23181717?style=flat-square&labelColor=blue&logoColor=white&logo=docker)
+![](https://img.shields.io/badge/-GitLab-%23181717?style=flat-square&labelColor=gray&logoColor=orange&logo=gitlab) \
 ![](https://img.shields.io/badge/-Git-%23181717?style=flat-square&labelColor=brown&logoColor=orange&logo=git)
 
 ---
