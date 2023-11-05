@@ -3,7 +3,7 @@
 
 I'm a software engineer that specializes in back-end web development. I enjoy working with [**cryptosystems**](https://en.wikipedia.org/wiki/Cryptosystem) and developing applications that support **privacy**, **security**, [**cyberwarfare**](https://en.wikipedia.org/wiki/Cyberwarfare), and [**IT operations**](https://www.ibm.com/topics/it-operations).
 
-### ⭐ Specialties
+### ⭐ Skills
 
 ![Back-end Web Development](https://img.shields.io/badge/Back--end_Web_Development-%23181717?style=flat-square)
 ![Web APIs](https://img.shields.io/badge/Web_APIs-%23181717?style=flat-square)
