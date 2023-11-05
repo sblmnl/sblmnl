@@ -16,7 +16,7 @@ I'm a software engineer that specializes mostly in back-end web development, scr
 
 |   |   |
 | - | - |
-| ![](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&theme=github_dark_dimmed) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut-vertical&theme=github_dark_dimmed)
+| ![](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&theme=github_dark_dimmed) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut&theme=github_dark_dimmed) |
 
 ### 🛠️ Tool Belt
 
@@ -36,7 +36,6 @@ I'm a software engineer that specializes mostly in back-end web development, scr
 ![](https://img.shields.io/badge/-CSS-%23181717?style=flat-square&labelColor=black&logoColor=blue&logo=css3)
 ![](https://img.shields.io/badge/-Docker-%23181717?style=flat-square&labelColor=blue&logoColor=white&logo=docker)
 ![](https://img.shields.io/badge/-Git-%23181717?style=flat-square&labelColor=brown&logoColor=orange&logo=git)
-
 
 ---
 
