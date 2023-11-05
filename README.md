@@ -5,11 +5,11 @@ I'm a software engineer that specializes in back-end web development, cryptosyst
 
 ### ⭐ Specialties
 
-![Back-end Web Development](https://img.shields.io/badge/-Back--end_Web_Development-%23181717?style=flat-square)
-![Web APIs](https://img.shields.io/badge/-Web_APIs-%23181717?style=flat-square)
-![Cryptosystems](https://img.shields.io/badge/-Cryptosystems-%23181717?style=flat-square)
-![Scripting](https://img.shields.io/badge/-Scripting-%23181717?style=flat-square)
-![Automation](https://img.shields.io/badge/-Automation-%23181717?style=flat-square)
+![Back-end Web Development](https://img.shields.io/badge/Back--end_Web_Development-%23181717?style=flat-square)
+![Web APIs](https://img.shields.io/badge/Web_APIs-%23181717?style=flat-square)
+![Cryptosystems](https://img.shields.io/badge/Cryptosystems-%23181717?style=flat-square)
+![Scripting](https://img.shields.io/badge/Scripting-%23181717?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-%23181717?style=flat-square)
 
 ### 📈 GitHub Stats
 
