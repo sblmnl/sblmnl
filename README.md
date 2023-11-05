@@ -1,14 +1,15 @@
-[![](https://img.shields.io/badge/-Jared%20Shue-%23181717?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/jared-shue/)](https://www.linkedin.com/in/jared-shue/)
-[![](https://img.shields.io/badge/-@sblmnl-%23181717?style=flat-square&logo=github)](https://github.com/sblmnl)
+[![linkedin.com/in/jared-shue](https://img.shields.io/badge/-Jared%20Shue-%23181717?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/jared-shue/)](https://www.linkedin.com/in/jared-shue/)
+[![github.com/sblmnl](https://img.shields.io/badge/-@sblmnl-%23181717?style=flat-square&logo=github)](https://github.com/sblmnl)
 
-I'm a software engineer that specializes in back-end web development, scripting, and automation. I enjoy working on [cryptosystems](https://en.wikipedia.org/wiki/Cryptosystem) and applications in support of cyber operations.
+I'm a software engineer that specializes in back-end web development, cryptosystems, scripting, and automation. I enjoy working with [**cryptosystems**](https://en.wikipedia.org/wiki/Cryptosystem) and applications that support **privacy**, **security**, [**cyber warfare**](https://en.wikipedia.org/wiki/Cyberwarfare), and [**IT operations**](https://www.ibm.com/topics/it-operations).
 
 ### ⭐ Specialties
 
-![](https://img.shields.io/badge/-Web_APIs-%23181717?style=flat-square)
-![](https://img.shields.io/badge/-Cryptosystems-%23181717?style=flat-square)
-![](https://img.shields.io/badge/-Scripting-%23181717?style=flat-square)
-![](https://img.shields.io/badge/-Automation-%23181717?style=flat-square)
+![Back-end Web Development](https://img.shields.io/badge/-Back--end_Web_Development-%23181717?style=flat-square)
+![Web APIs](https://img.shields.io/badge/-Web_APIs-%23181717?style=flat-square)
+![Cryptosystems](https://img.shields.io/badge/-Cryptosystems-%23181717?style=flat-square)
+![Scripting](https://img.shields.io/badge/-Scripting-%23181717?style=flat-square)
+![Automation](https://img.shields.io/badge/-Automation-%23181717?style=flat-square)
 
 ### 📈 GitHub Stats
 
