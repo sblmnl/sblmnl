@@ -5,13 +5,20 @@
 
 I'm a software engineer that specializes mostly in back-end web development, scripting and automation. I enjoy working with [cryptosystems](https://en.wikipedia.org/wiki/Cryptosystem) and security applications.
 
+### ⭐ Specialties
+
+![](https://img.shields.io/badge/-Web_APIs-%23181717?style=flat-square)
+![](https://img.shields.io/badge/-Cryptosystems-%23181717?style=flat-square)
+![](https://img.shields.io/badge/-Scripting-%23181717?style=flat-square)
+![](https://img.shields.io/badge/-Automation-%23181717?style=flat-square)
+
 ### 🚀 GitHub Stats
 
 |   |   |
 | - | - |
 | ![](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&theme=github_dark_dimmed) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut-vertical&theme=github_dark_dimmed)
 
-### 🛠️ Skills
+### 🛠️ Tool Belt
 
 ![](https://img.shields.io/badge/-CSharp-%23181717?style=flat-square&labelColor=purple&logoColor=white&logo=csharp)
 ![](https://img.shields.io/badge/-ASP.NET_Core-%23181717?style=flat-square&labelColor=purple&logoColor=white&logo=dotnet)
@@ -28,11 +35,8 @@ I'm a software engineer that specializes mostly in back-end web development, scr
 ![](https://img.shields.io/badge/-HTML-%23181717?style=flat-square&labelColor=black&logoColor=orange&logo=html5)
 ![](https://img.shields.io/badge/-CSS-%23181717?style=flat-square&labelColor=black&logoColor=blue&logo=css3)
 ![](https://img.shields.io/badge/-Docker-%23181717?style=flat-square&labelColor=blue&logoColor=white&logo=docker)
-![](https://img.shields.io/badge/-Git-%23181717?style=flat-square&labelColor=brown&logoColor=orange&logo=git) \
-![](https://img.shields.io/badge/-Web_APIs-%23181717?style=flat-square)
-![](https://img.shields.io/badge/-Cryptosystems-%23181717?style=flat-square)
-![](https://img.shields.io/badge/-Scripting-%23181717?style=flat-square)
-![](https://img.shields.io/badge/-Automation-%23181717?style=flat-square)
+![](https://img.shields.io/badge/-Git-%23181717?style=flat-square&labelColor=brown&logoColor=orange&logo=git)
+
 
 ---
 
