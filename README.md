@@ -14,7 +14,7 @@ I'm a software engineer that specializes mostly in back-end web development, scr
 
 |   |   |
 | - | - |
-| ![](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&rank_icon=percentile&theme=github_dark_dimmed) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut&theme=github_dark_dimmed) |
+| [![](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&rank_icon=percentile&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&rank_icon=percentile&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-top-langs#gh-dark-mode-only) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-top-langs#gh-light-mode-only) |
 
 ### 🛠️ Tool Belt
 
