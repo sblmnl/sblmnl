@@ -1,5 +1,3 @@
-### Hey 👋, I'm Jared
-
 [![](https://img.shields.io/badge/-Jared%20Shue-%23181717?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/jared-shue/)](https://www.linkedin.com/in/jared-shue/)
 [![](https://img.shields.io/badge/-@sblmnl-%23181717?style=flat-square&logo=github)](https://github.com/sblmnl)
 
@@ -16,7 +14,7 @@ I'm a software engineer that specializes mostly in back-end web development, scr
 
 |   |   |
 | - | - |
-| ![](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&theme=github_dark_dimmed) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut&theme=github_dark_dimmed) |
+| ![](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&rank_icon=percentile&theme=github_dark_dimmed) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut&theme=github_dark_dimmed) |
 
 ### 🛠️ Tool Belt
 
