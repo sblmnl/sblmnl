@@ -19,9 +19,9 @@ I'm a software engineer that specializes in back-end web development. I enjoy wo
 
 ### 🛠️ Tool Belt
 
-![CSharp](https://img.shields.io/badge/-CSharp-%23181717?style=flat-square&logoColor=purple&logo=csharp)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-%23181717?style=flat-square&logoColor=purple&logo=dotnet)
-![Blazor](https://img.shields.io/badge/-Blazor-%23181717?style=flat-square&logoColor=purple&logo=blazor)
+![CSharp](https://img.shields.io/badge/-CSharp-%23181717?style=flat-square&logoColor=blueviolet&logo=csharp)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-%23181717?style=flat-square&logoColor=blueviolet&logo=dotnet)
+![Blazor](https://img.shields.io/badge/-Blazor-%23181717?style=flat-square&logoColor=blueviolet&logo=blazor)
 ![Python](https://img.shields.io/badge/-Python-%23181717?style=flat-square&logoColor=blue&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23181717?style=flat-square&logoColor=green&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-%23181717?style=flat-square&logoColor=green&logo=express)
