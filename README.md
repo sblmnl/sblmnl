@@ -5,7 +5,7 @@ I'm a software engineer that specializes in back-end web development. I enjoy wo
 
 ### ⭐ Skills
 
-![Back-end Web Development](https://img.shields.io/badge/Back--end_Web_Development-%23181717?style=flat-square)
+![Back-End Web Development](https://img.shields.io/badge/Back--End_Web_Development-%23181717?style=flat-square)
 ![Web APIs](https://img.shields.io/badge/Web_APIs-%23181717?style=flat-square)
 ![Cryptosystems](https://img.shields.io/badge/Cryptosystems-%23181717?style=flat-square)
 ![Scripting](https://img.shields.io/badge/Scripting-%23181717?style=flat-square)
