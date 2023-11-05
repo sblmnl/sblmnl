@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/-Jared%20Shue-%23181717?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/jared-shue/)](https://www.linkedin.com/in/jared-shue/)
 [![](https://img.shields.io/badge/-@sblmnl-%23181717?style=flat-square&logo=github)](https://github.com/sblmnl)
 
-I'm a software engineer that specializes mostly in back-end web development, scripting and automation. I enjoy working on [cryptosystems](https://en.wikipedia.org/wiki/Cryptosystem) and applications in support of cyber operations.
+I'm a software engineer that specializes in back-end web development, scripting, and automation. I enjoy working on [cryptosystems](https://en.wikipedia.org/wiki/Cryptosystem) and applications in support of cyber operations.
 
 ### ⭐ Specialties
 
@@ -10,7 +10,7 @@ I'm a software engineer that specializes mostly in back-end web development, scr
 ![](https://img.shields.io/badge/-Scripting-%23181717?style=flat-square)
 ![](https://img.shields.io/badge/-Automation-%23181717?style=flat-square)
 
-### 🚀 GitHub Stats
+### 📈 GitHub Stats
 
 |   |   |
 | - | - |
