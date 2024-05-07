@@ -16,13 +16,12 @@ I'm a software engineer that specializes in back-end web development. I enjoy wo
 
 |   |   |
 | - | - |
-| [![GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&rank_icon=github&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![GitHub Stats (Light)](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | [![Most Used Languages (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-top-langs#gh-dark-mode-only) [![Most Used Languages (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-top-langs#gh-light-mode-only) |
+| [![GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&rank_icon=github&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![GitHub Stats (Light)](https://github-readme-stats.vercel.app/api?username=sblmnl&show_icons=true&show=[reviews,discussions_started,discussions_answered,prs_merged]&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | [![Most Used Languages (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-top-langs#gh-dark-mode-only) [![Most Used Languages (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=sblmnl&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-top-langs#gh-light-mode-only) |
 
 ### 🛠️ Tool Belt
 
 ![CSharp](https://img.shields.io/badge/CSharp-%23181717?style=flat-square&logoColor=blueviolet&logo=csharp)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23181717?style=flat-square&logoColor=blueviolet&logo=dotnet)
-![Blazor](https://img.shields.io/badge/Blazor-%23181717?style=flat-square&logoColor=blueviolet&logo=blazor)
 ![Python](https://img.shields.io/badge/Python-%23181717?style=flat-square&logoColor=blue&logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-%23181717?style=flat-square&logoColor=green&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-%23181717?style=flat-square&logoColor=green&logo=express)
